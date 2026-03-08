@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurishankar Bikram Jirel</h1>
 <h3 align="center">Building Networks. Earning Trust. | Aspiring Network Engineer | Routing | Switching | Infrastructure</h3>
 
-- 🔭 I'm currently working on **Building and simulating enterprise network environments Enterprise Network Configuration & Troubleshooting**
+- 🔭 I'm currently working on Building and simulating enterprise network environments **Enterprise Network Configuration & Troubleshooting**
 
 - 🌱 I’m currently learning **Advanced routing protocols, network security fundamentals, and enterprise infrastructure design**
 
